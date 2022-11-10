@@ -1,1 +1,1 @@
-The SQLPL programming language IDE submodule for SNU Programming Tools (2D Mode)
+A repository for showcasing my knowledge of the SQLPL programming language, and continuing to learn the language.
