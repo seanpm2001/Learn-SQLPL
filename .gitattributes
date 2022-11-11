@@ -32,6 +32,16 @@
 *.css linguist-detectable=true
 *.css linguist-documentation=false
 *.css linguist-language=CSS
+# SQLPL source file
+*.pkb linguist-detectable=true
+*.pkb linguist-documentation=false
+*.pkb linguist-language=SQLPL
+*.pks linguist-detectable=true
+*.pks linguist-documentation=false
+*.pks linguist-language=SQLPL
+*.sql linguist-detectable=true
+*.sql linguist-documentation=false
+*.sql linguist-language=SQLPL
 # Less stylesheet file
 *.less linguist-detectable=true
 *.less linguist-documentation=false
@@ -164,7 +174,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Thursday, November 10th at 5:11 pm PST)
+# Line count (including blank lines and compiler line): 181
 # End of script
